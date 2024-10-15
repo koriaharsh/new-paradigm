@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/inputform.tsx","./src/pages/blankscreen.tsx","./src/pages/cartoon.tsx","./src/pages/landing.tsx","./src/pages/restcondition.tsx","./src/pages/runparadigm.tsx","./src/pages/stimuli.tsx","./src/recoil/atoms/paradigmatom.ts","./src/recoil/selectors/paradigmselectors.ts"],"version":"5.6.3"}
